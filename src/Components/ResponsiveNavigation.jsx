@@ -26,7 +26,7 @@ function ResponsiveNavigation ({ navLinks, background, hoverBackground, linkColo
                             style={{ color: linkColor }}
                         >
                             { link.text }
-                            <i className={link.icon} />
+                            {/* <i className={link.icon} /> */}
                         </Link>
                     </li>    
                 )}

@@ -48,7 +48,7 @@ nav.responsive-toolbar {
         ul {
             height: 100%;
             width: 300px;
-            left: -240px;
+            left: -300px;
             position: fixed;
             top: 60px;
             flex-direction: column;
@@ -65,16 +65,16 @@ nav.responsive-toolbar {
             }
 
             li {
-                width: 100%;
-                padding-left: 0;
-                padding-right: 0;
+                // width: 100%;
+                // padding-left: 0;
+                // padding-right: 0;
             }
 
             a {
-                flex-direction: row;
-                justify-content: space-between;
-                margin-left: 20px;
-                margin-right: 16px;
+            //     flex-direction: row;
+            //     justify-content: space-between;
+            //     margin-left: 20px;
+            //     margin-right: 16px;
             }
         }
     }

@@ -15,27 +15,27 @@ function App() {
     {
       text: 'Home',
       path: '/',
-      icon: 'ion-ios-home',
+      // icon: 'ion-ios-home',
     },
     {
       text: 'Contact',
       path: '/contact',
-      icon: 'ion-ios-megaphone',
+      // icon: 'ion-ios-megaphone',
     },
     {
       text: 'About',
       path: '/about',
-      icon: 'ion-ios-business',
+      // icon: 'ion-ios-business',
     },
     {
       text: 'Blog',
       path: '/blog',
-      icon: 'ion-ios-bonfire',
+      // icon: 'ion-ios-bonfire',
     },
     {
       text: 'Portfolio',
       path: '/portfolio',
-      icon: 'ion-ios-briefcase',
+      // icon: 'ion-ios-briefcase',
     }
   ]
 
