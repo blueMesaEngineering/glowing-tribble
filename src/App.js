@@ -1,11 +1,11 @@
 import React from 'react';
 import { Router } from '@reach/router'
 import './App.css';
-import About from './pages/About.jsx'
-import Contact from './pages/Contact.jsx'
-import Portfolio from './pages/Portfolio.jsx'
-import Home from './pages/Home.jsx'
-import Blog from './pages/Blog.jsx'
+import About from './About'
+import Contact from '/Contact'
+import Portfolio from './Portfolio'
+import Home from './Home'
+import Blog from './Blog'
 import ResponsiveNavigation from './Components/ResponsiveNavigation'
 import logo from './logo.svg'
 
@@ -19,7 +19,7 @@ function App() {
     },
     {
       text: 'Contact',
-      path: '/contact',
+      path: '/Contact',
       // icon: 'ion-ios-megaphone',
     },
     {
